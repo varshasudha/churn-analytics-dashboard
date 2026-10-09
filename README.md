@@ -2,7 +2,7 @@
 
 Streamlit dashboard built for Unified Mentor by **Varsha Sudha** (Machine Learning Intern).
 
-**Live Demo:** _add your Streamlit link here_
+**Live Demo:** https://churn-analytics-europe-bank.streamlit.app/
 
 ## Pages
 - **Home** - overall churn summary and KPIs (overall churn, high-value churn ratio, engagement drop, balance at risk)
